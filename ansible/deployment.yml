@@ -20,9 +20,9 @@
       
     - name: getting code to server
       git:
-        repo: ""
+        repo: "https://github.com/pawank18797/mono-project-repo.git"
         dest: /var/www/html/
-        version: ""
+        version: "frontend"
 
 
 
